@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1680323135 source:c:\users\hp\desktop\checking the number\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<stdio.h>
+
